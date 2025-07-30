@@ -10,11 +10,8 @@
 
 ### ✨ About Me
 
-
 💡 I craft scalable, interactive UIs with precision and visual clarity.  
-🎨 Focused on performant, responsive, and consistent UIs.
-📩 Reach me at: [adityamernstack@gmail.com](mailto:adityamernstack@gmail.com)
-
+🎨 Focused on performant, responsive, and consistent UIs.<br>📩 Reach me at: [adityamernstack@gmail.com](mailto:adityamernstack@gmail.com)
 ---
 
 ### 🧠 Tech Stack
