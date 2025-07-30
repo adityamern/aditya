@@ -9,7 +9,7 @@
 
 ### 📌 About Me
 
-<p align="center" style="max-width:750px; font-size:1rem; line-height:1.6;">
+<p align="center">
 🚀 I’m a frontend developer who crafts interfaces with precision and purpose.  
 🎯 My focus lies in building clean, scalable, and highly interactive user experiences using modern frameworks.  
 🎨 I believe in thoughtful design, fluid layouts, and seamless component architecture.  
@@ -53,7 +53,7 @@
       <strong>Bootstrap</strong>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="40" style="background:white; border-radius:50%;" /><br/>
+      <img src="https://raw.githubusercontent.com/adityamern/assets/main/vercel-white-bg.png" width="40" /><br/>
       <strong>Vercel</strong>
     </td>
   </tr>
@@ -71,7 +71,7 @@
       <strong>VS Code</strong>
     </td>
     <td align="center" width="140">
-      <!-- Empty for alignment -->
+      <!-- Empty for spacing -->
     </td>
   </tr>
 </table>
@@ -88,4 +88,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/REPLACE_WITH_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-chupmanyu-7289DA?style=for-the-badge&logo=discord&logoCo
+    <img src="https://img.shields.io/badge/Discord-chupmanyu-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
