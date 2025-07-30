@@ -83,8 +83,9 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1387066067670798348" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="30" />
 </a>
+
 
 </p>
 
