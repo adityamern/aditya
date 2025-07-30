@@ -10,10 +10,10 @@
 ### 📌 About Me
 
 <p align="center">
-🚀 I’m a frontend developer who crafts interfaces with precision and purpose.  
-🎯 My focus lies in building clean, scalable, and highly interactive user experiences using modern frameworks.  
-🎨 I believe in thoughtful design, fluid layouts, and seamless component architecture.  
-🛠️ Whether it's a complex UI system or a simple layout — I ensure it's done with polish.  
+🚀 Passionate about crafting pixel-perfect, highly interactive UIs.<br>
+🎯 Focused on building clean, scalable, component-driven frontend systems.<br>
+🎨 Obsessed with UI design systems, seamless UX, and modern frameworks.<br>
+💡 I believe every interaction should feel effortless and intentional.
 </p>
 
 ---
@@ -53,7 +53,7 @@
       <strong>Bootstrap</strong>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/adityamern/assets/main/vercel-white-bg.png" width="40" /><br/>
+      <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" width="40" /><br/>
       <strong>Vercel</strong>
     </td>
   </tr>
@@ -63,15 +63,16 @@
       <strong>Netlify</strong>
     </td>
     <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /><br/>
+      <strong>GitHub</strong>
+    </td>
+    <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>
       <strong>Git</strong>
     </td>
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /><br/>
       <strong>VS Code</strong>
-    </td>
-    <td align="center" width="140">
-      <!-- Empty for spacing -->
     </td>
   </tr>
 </table>
