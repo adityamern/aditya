@@ -86,9 +86,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/REPLACE_WITH_ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" />
-  </a>
 </p>
 
 <!-- README.md END -->
