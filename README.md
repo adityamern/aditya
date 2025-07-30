@@ -10,10 +10,9 @@
 
 ### ✨ About Me
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" style="border-radius: 12px;" />
 
-💡 I design and develop refined, scalable interfaces with precision, motion, and clarity.  
-🎨 Focused on UI architecture that balances performance, responsiveness, and visual consistency.  
+💡 I craft scalable, interactive UIs with precision and visual clarity.  
+🎨 Focused on performant, responsive, and consistent UIs.
 📩 Reach me at: [adityamernstack@gmail.com](mailto:adityamernstack@gmail.com)
 
 ---
