@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aditya Mishra</h1>
-<h3 align="center">✨ Frontend Developer · Aesthetic-Focused · React Specialist</h3>
+<h3 align="center">✨ Frontend Developer · Specialist · React Focused</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif" />
@@ -9,11 +9,11 @@
 
 ### 📌 About Me
 
-<p align="center">
-🚀 Passionate about crafting pixel-perfect, highly interactive UIs.<br>
-🎯 Focused on building clean, scalable, component-driven frontend systems.<br>
-🎨 Obsessed with UI design systems, seamless UX, and modern frameworks.<br>
-💡 I believe every interaction should feel effortless and intentional.
+<p align="center" style="font-size: 16px">
+🚀 I craft seamless, modern UIs with a strong focus on clarity, motion, and scalability.<br><br>
+🎨 My design-driven mindset helps translate clean layouts into maintainable, responsive code.<br><br>
+⚛️ Specializing in React and Tailwind, I build frontend systems that are both beautiful and practical.<br><br>
+🧠 I treat every project as a product—thoughtfully styled, intentionally structured, and made to last.
 </p>
 
 ---
@@ -83,12 +83,12 @@
 
 <p align="center">
   <a href="mailto:adityamernstack@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-adityamernstack%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-adityamernstack%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/adityamishra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/REPLACE_WITH_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-chupmanyu-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-chupmanyu-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
