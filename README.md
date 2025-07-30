@@ -45,7 +45,7 @@
       <strong>React</strong>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" /><br/>
       <strong>Tailwind</strong>
     </td>
     <td align="center" width="140">
@@ -53,14 +53,14 @@
       <strong>Bootstrap</strong>
     </td>
     <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" /><br/>
-      <strong>Netlify</strong>
+      <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="40" style="background:white; border-radius:50%;" /><br/>
+      <strong>Vercel</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" /><br/>
-      <strong>Vercel</strong>
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" /><br/>
+      <strong>Netlify</strong>
     </td>
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>
@@ -71,7 +71,7 @@
       <strong>VS Code</strong>
     </td>
     <td align="center" width="140">
-      <!-- intentionally left blank for spacing -->
+      <!-- Empty for alignment -->
     </td>
   </tr>
 </table>
@@ -88,6 +88,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/REPLACE_WITH_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-chupmanyu-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/Discord-chupmanyu-7289DA?style=for-the-badge&logo=discord&logoCo
