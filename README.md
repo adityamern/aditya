@@ -1,5 +1,5 @@
-<h1 align="center">Aditya Mishra</h1>
-<h3 align="center">Frontend Developer · UI Engineer · Design-Driven Coder</h3>
+<h1 align="center">Hi, I'm Aditya Mishra</h1>
+<h3 align="center">✨ Frontend Developer · Aesthetic-Focused · React Specialist</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif" />
@@ -7,15 +7,14 @@
 
 ---
 
-### ✨ About Me
+### 📌 About Me
 
-<div align="center" style="max-width:800px; font-size:1rem; line-height:1.7;">
-I’m a frontend developer focused on building refined, performant, and design-consistent interfaces.  
-<br/><br/>
-With a strong grip on modern UI architecture, I craft interactive components, scalable design systems, and production-grade code using tools like <strong>React</strong>, <strong>Tailwind</strong>, and <strong>TypeScript</strong>.  
-<br/><br/>
-My attention to detail reflects in everything — from pixel-perfect layout to smooth user interactions.
-</div>
+<p align="center" style="max-width:750px; font-size:1rem; line-height:1.6;">
+🚀 I’m a frontend developer who crafts interfaces with precision and purpose.  
+🎯 My focus lies in building clean, scalable, and highly interactive user experiences using modern frameworks.  
+🎨 I believe in thoughtful design, fluid layouts, and seamless component architecture.  
+🛠️ Whether it's a complex UI system or a simple layout — I ensure it's done with polish.  
+</p>
 
 ---
 
@@ -25,33 +24,33 @@ My attention to detail reflects in everything — from pixel-perfect layout to s
 
 <!-- 🔸 Frontend -->
 <p><strong>Frontend</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React" />
 
 <!-- 🎨 Styling -->
 <br/><br/>
 <p><strong>Styling</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" title="Bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38" title="Tailwind CSS" />
 
 <!-- 🚀 Deploy -->
 <br/><br/>
 <p><strong>Deploy</strong></p>
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="38" title="Netlify" />
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="38" title="Vercel" />
 
 <!-- 🧰 Tools -->
 <br/><br/>
 <p><strong>Tools</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code" />
 
-<!-- 🌐 Connect -->
+<!-- 🌐 Contact -->
 <br/><br/>
-<p><strong>Connect With Me</strong></p>
+<p><strong>Connect with me</strong></p>
 <a href="mailto:adityamernstack@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-adityamernstack%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
