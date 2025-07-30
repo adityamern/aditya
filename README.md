@@ -18,47 +18,76 @@
 
 ---
 
-### 🧠 Tech Stack & Connect
+### 🧠 Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br/>
+      <strong>HTML5</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br/>
+      <strong>CSS3</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br/>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br/>
+      <strong>TypeScript</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br/>
+      <strong>React</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /><br/>
+      <strong>Tailwind</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /><br/>
+      <strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" /><br/>
+      <strong>Netlify</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" /><br/>
+      <strong>Vercel</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>
+      <strong>Git</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /><br/>
+      <strong>VS Code</strong>
+    </td>
+    <td align="center" width="140">
+      <!-- intentionally left blank for spacing -->
+    </td>
+  </tr>
+</table>
 
-<!-- 🔸 Frontend -->
-<p><strong>Frontend</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React" />
+---
 
-<!-- 🎨 Styling -->
-<br/><br/>
-<p><strong>Styling</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" title="Bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38" title="Tailwind CSS" />
+### 🌐 Connect With Me
 
-<!-- 🚀 Deploy -->
-<br/><br/>
-<p><strong>Deploy</strong></p>
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="38" title="Netlify" />
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="38" title="Vercel" />
-
-<!-- 🧰 Tools -->
-<br/><br/>
-<p><strong>Tools</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code" />
-
-<!-- 🌐 Contact -->
-<br/><br/>
-<p><strong>Connect with me</strong></p>
-<a href="mailto:adityamernstack@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-adityamernstack%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/adityamishra" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://discord.com/users/REPLACE_WITH_ID" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-chupmanyu-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:adityamernstack@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-adityamernstack%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adityamishra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/REPLACE_WITH_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-chupmanyu-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
