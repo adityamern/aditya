@@ -82,6 +82,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://discord.com/users/1387066067670798348" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" />
+</a>
+
 </p>
 
 <!-- README.md END -->
