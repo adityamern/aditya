@@ -10,10 +10,9 @@
 ### 📌 About Me
 
 <p align="center" style="font-size: 16px">
-🚀 I craft seamless, modern UIs with a strong focus on clarity, motion, and scalability.<br><br>
-🎨 My design-driven mindset helps translate clean layouts into maintainable, responsive code.<br><br>
+🚀 I design and develop refined, scalable interfaces with precision, motion, and clarity.<br><br>
+🎨 Focused on UI architecture that balances performance, responsiveness, and visual consistency.<br><br>
 ⚛️ Specializing in React and Tailwind, I build frontend systems that are both beautiful and practical.<br><br>
-🧠 I treat every project as a product—thoughtfully styled, intentionally structured, and made to last.<br><br>
 📩 Reach me at: <a href="mailto:adityamernstack@gmail.com">adityamernstack@gmail.com</a>
 </p>
 
@@ -84,9 +83,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/adityamishra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   <a href="https://discord.com/users/REPLACE_WITH_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-chupmanyu-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" />
   </a>
 </p>
