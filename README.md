@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="banner.png" width="100%" alt="Banner" />
 </p>
 
 ---
@@ -24,17 +24,7 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vscode,git,github,netlify,vercel,leetcode&perline=4" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" alt="Figma" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" alt="Canva" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="ChatGPT" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/perplexity/8A63D2" width="40" alt="Perplexity" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vscode,git,github,netlify,vercel,leetcode,figma,canva,openai&perline=4" alt="Tech Stack" />
 </p>
 
 ---
@@ -42,19 +32,19 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/adityamishra">
+  <a href="https://linkedin.com/in/adityamishra" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/1387066067670798348">
+  <a href="https://discord.com/users/1387066067670798348" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="30" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:adityamernstack@gmail.com">
+  <a href="mailto:adityamernstack@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/D14836" width="30" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/adityamern">
+  <a href="https://twitter.com/adityamern" target="_blank">
     <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30" alt="Twitter" />
   </a>
 </p>
