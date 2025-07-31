@@ -21,120 +21,67 @@
 
 ---
 
-### 🧠 Tech Stack
-<p align="center" style="max-width: 700px; margin: auto; line-height: 2.5;">
+### 🚀 My Frontend Tech Stack
 
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="HTML" style="margin: 0 20px; vertical-align: middle; animation: float 3s ease-in-out infinite;" />
-  <img src="https://skillicons.dev/icons?i=css" width="80" height="80" alt="CSS" style="margin: 0 20px; vertical-align: middle; animation: float 3.2s ease-in-out infinite;" />
+<p align="center" style="max-width: 800px; margin: auto; line-height: 3;">
 
-  <br />
-
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="80" height="80" alt="Bootstrap" style="margin: 0 20px; vertical-align: middle; animation: float 3.1s ease-in-out infinite;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="80" height="80" alt="Tailwind" style="margin: 0 20px; vertical-align: middle; animation: float 3.3s ease-in-out infinite;" />
-
-  <br />
-
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=js" width="80" height="80" alt="JavaScript" style="margin: 0 18px; vertical-align: middle; animation: float 3.1s ease-in-out infinite;" />
-  <img src="https://skillicons.dev/icons?i=ts" width="80" height="80" alt="TypeScript" style="margin: 0 18px; vertical-align: middle; animation: float 3.3s ease-in-out infinite;" />
-  <img src="https://skillicons.dev/icons?i=react" width="80" height="80" alt="React" style="margin: 0 18px; vertical-align: middle; animation: float 3.5s ease-in-out infinite;" />
-
-  <br />
-
-  <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=vscode" width="80" height="80" alt="VSCode" style="margin: 0 20px; vertical-align: middle; animation: float 3s ease-in-out infinite;" />
-  <img src="https://skillicons.dev/icons?i=netlify" width="80" height="80" alt="Netlify" style="margin: 0 20px; vertical-align: middle; animation: float 3.2s ease-in-out infinite;" />
-  <img src="https://skillicons.dev/icons?i=vercel" width="80" height="80" alt="Vercel" style="margin: 0 20px; vertical-align: middle; animation: float 3.4s ease-in-out infinite;" />
-
-  <br />
-
-  <!-- Row 5 -->
-  <img src="https://skillicons.dev/icons?i=git" width="80" height="80" alt="Git" style="margin: 0 24px; vertical-align: middle; animation: float 3.1s ease-in-out infinite;" />
-  <img src="https://skillicons.dev/icons?i=github" width="80" height="80" alt="GitHub" style="margin: 0 24px; vertical-align: middle; animation: float 3.3s ease-in-out infinite;" />
-
-  <br />
-
-  <!-- Row 6: Last 4 icons - Using Circle Icons or Text Badges with better alignment -->
-
-  <!-- Figma icon -->
-  <img src="https://skillicons.dev/icons?i=figma" width="80" height="80" alt="Figma" style="margin: 0 20px; vertical-align: middle; animation: float 3.2s ease-in-out infinite;" />
-
-  <!-- Canva unofficial icon placeholder (circle with text) -->
-  <span style="
-    display: inline-block;
-    width: 80px; height: 80px;
-    line-height: 80px;
-    border-radius: 50%;
-    background: #00C4CC;
-    color: white;
-    font-weight: 700;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0 20px;
-    vertical-align: middle;
-    animation: float 3.4s ease-in-out infinite;
-    user-select: none;
-  ">Canva</span>
-
-  <!-- ChatGPT unofficial icon placeholder -->
-  <span style="
-    display: inline-block;
-    width: 80px; height: 80px;
-    line-height: 80px;
-    border-radius: 50%;
-    background: #10A37F;
-    color: white;
-    font-weight: 700;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0 20px;
-    vertical-align: middle;
-    animation: float 3.6s ease-in-out infinite;
-    user-select: none;
-  ">ChatGPT</span>
-
-  <!-- Replit unofficial icon placeholder -->
-  <span style="
-    display: inline-block;
-    width: 80px; height: 80px;
-    line-height: 80px;
-    border-radius: 50%;
-    background: #6E40C9;
-    color: white;
-    font-weight: 700;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0 20px;
-    vertical-align: middle;
-    animation: float 3.8s ease-in-out infinite;
-    user-select: none;
-  ">Replit</span>
-
-  <!-- Perplexity unofficial icon placeholder -->
-  <span style="
-    display: inline-block;
-    width: 80px; height: 80px;
-    line-height: 80px;
-    border-radius: 50%;
-    background: #2B2D42;
-    color: white;
-    font-weight: 700;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0 20px;
-    vertical-align: middle;
-    animation: float 4s ease-in-out infinite;
-    user-select: none;
-  ">Perplexity</span>
+  <!-- (icons block here) -->
 
 </p>
 
 <style>
 @keyframes float {
   0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
+  50% { transform: translateY(-12px); }
+}
+</style>
+
+<p align="center" style="max-width: 800px; margin: auto; line-height: 3;">
+
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=html" width="90" height="90" alt="HTML" style="margin: 0 50px; vertical-align: middle; animation: float 3s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=css" width="90" height="90" alt="CSS" style="margin: 0 50px; vertical-align: middle; animation: float 3.2s ease-in-out infinite;" />
+
+  <br />
+
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="90" height="90" alt="Bootstrap" style="margin: 0 50px; vertical-align: middle; animation: float 3.1s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="90" height="90" alt="Tailwind" style="margin: 0 50px; vertical-align: middle; animation: float 3.3s ease-in-out infinite;" />
+
+  <br />
+
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=js" width="90" height="90" alt="JavaScript" style="margin: 0 48px; vertical-align: middle; animation: float 3.1s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=ts" width="90" height="90" alt="TypeScript" style="margin: 0 48px; vertical-align: middle; animation: float 3.3s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=react" width="90" height="90" alt="React" style="margin: 0 48px; vertical-align: middle; animation: float 3.5s ease-in-out infinite;" />
+
+  <br />
+
+  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=vscode" width="90" height="90" alt="VSCode" style="margin: 0 50px; vertical-align: middle; animation: float 3s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=netlify" width="90" height="90" alt="Netlify" style="margin: 0 50px; vertical-align: middle; animation: float 3.2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="90" height="90" alt="Vercel" style="margin: 0 50px; vertical-align: middle; animation: float 3.4s ease-in-out infinite;" />
+
+  <br />
+
+  <!-- Row 5 -->
+  <img src="https://skillicons.dev/icons?i=git" width="90" height="90" alt="Git" style="margin: 0 54px; vertical-align: middle; animation: float 3.1s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=github" width="90" height="90" alt="GitHub" style="margin: 0 54px; vertical-align: middle; animation: float 3.3s ease-in-out infinite;" />
+
+  <br />
+
+  <!-- Row 6: More frontend icons from skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=figma" width="90" height="90" alt="Figma" style="margin: 0 45px; vertical-align: middle; animation: float 3.2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=eslint" width="90" height="90" alt="ESLint" style="margin: 0 45px; vertical-align: middle; animation: float 3.4s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=storybook" width="90" height="90" alt="Storybook" style="margin: 0 45px; vertical-align: middle; animation: float 3.6s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=jest" width="90" height="90" alt="Jest" style="margin: 0 45px; vertical-align: middle; animation: float 3.8s ease-in-out infinite;" />
+
+</p>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
 }
 </style>
 
