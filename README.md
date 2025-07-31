@@ -5,13 +5,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-
-
 ---
 
 ### ✨ About Me
-
-
 
 <span style="font-weight: normal; font-family: 'Segoe UI', sans-serif;">
 💡 I craft scalable, interactive UIs with precision and visual clarity.<br>
@@ -44,10 +40,9 @@
     <img src="https://cdn.simpleicons.org/gmail/D14836" width="30" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/adityamern" target="_blank">
     <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30" alt="Twitter" />
   </a>
 </p>
-
 
 <!-- README.md END -->
