@@ -24,7 +24,7 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vscode,git,github,netlify,vercel,leetcode,idea,figma&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vscode,git,github,netlify,vercel,leetcode,idea,figma&perline=4" alt="Tech Stack" />
 </p>
 
 ---
@@ -33,23 +33,20 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/adityamishra" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1387066067670798348" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/discord.svg" width="30" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:adityamernstack@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/adityamern" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="30" />
-  </a>
-  &nbsp;&nbsp;
+  
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" width="30" />
   </a>
 </p>
 
