@@ -41,7 +41,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/adityamern" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" />
   </a>
 </p>
 
