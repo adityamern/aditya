@@ -1,26 +1,30 @@
 <!-- README.md START -->
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold; letter-spacing: 1px;">Hey there 👋 I'm Aditya Mishra</h1>
 <h3 align="center" style="font-family: 'Segoe UI', sans-serif;">✨ Frontend Developer · JavaScript Specialist · React-Focused</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
+
 
 ---
 
 ### ✨ About Me
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" style="border-radius: 12px;" />
 
-💡 I craft scalable, interactive UIs with precision and visual clarity.  
-🎨 Focused on performant, responsive, and consistent UIs.<br>📩 Reach me at: [adityamernstack@gmail.com](mailto:adityamernstack@gmail.com)
+
+<span style="font-weight: normal; font-family: 'Segoe UI', sans-serif;">
+💡 I craft scalable, interactive UIs with precision and visual clarity.<br>
+🎨 Focused on performant, responsive, and consistent UIs.<br>
+📩 Reach me at: <a href="mailto:adityamernstack@gmail.com">adityamernstack@gmail.com</a>
+</span>
 
 ---
 
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vscode,git,github,netlify,vercel&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vscode,git,github,netlify,vercel,leetcode,idea,figma&perline=6" alt="Tech Stack" />
 </p>
 
 ---
