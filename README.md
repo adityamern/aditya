@@ -22,9 +22,8 @@
 ---
 
 ### 🧠 Tech Stack
-
 <p align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma,canva,vscode,git,github,vercel,netlify,chatgpt,perplexity&perline=4" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma,canva,vscode,git,github,vercel,netlify,chatgpt,perplexity&perline=4" alt="Tech Stack" />
 </p>
 
 ---
