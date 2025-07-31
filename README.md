@@ -37,16 +37,17 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1387066067670798348" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" alt="Discord" />
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="30" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:adityamernstack@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="30" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter" />
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30" alt="Twitter" />
   </a>
 </p>
+
 
 <!-- README.md END -->
