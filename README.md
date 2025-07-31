@@ -1,6 +1,10 @@
 <!-- README.md START -->
 
-<h1 align="center">Hey there 👋 I'm Aditya Mishra</h1>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityamern/adityamern/main/assets/banner.png" alt="Aditya Mishra Banner" width="100%" />
+</p>
+
 <h3 align="center">✨ Frontend Developer · JavaScript Specialist · React-Focused</h3>
 
 <p align="center">
