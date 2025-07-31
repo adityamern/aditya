@@ -52,7 +52,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="45" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=eslint" width="45" />
+  <img src="https://skillicons.dev/icons?i=figma" width="45" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=jest" width="45" />
   &nbsp;&nbsp;&nbsp;
