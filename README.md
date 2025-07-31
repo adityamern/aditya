@@ -17,11 +17,8 @@
 
 💡 I craft scalable, interactive UIs with precision and visual clarity.  
 🎨 Focused on performant, responsive, and consistent UIs.  
-<p>
-  <a href="mailto:adityamernstack@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adityamernstack@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+📩 Reach me at: [adityamernstack@gmail.com](https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com)
+
 
 
 ---
