@@ -22,31 +22,53 @@
 ---
 
 ### 🧠 Tech Stack
-<!-- Apple Watch Style Tech Stack Layout -->
-<p align="center">
+<!-- Floating Circular Tech Stack for README -->
+
+<p align="center" style="max-width: 400px; margin: auto; line-height: 1.8;">
+
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=ts" />
-</p>
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TS" style="margin: 0 8px; vertical-align: middle; animation: float 3s ease-in-out infinite;" />
+
+  <br />
+
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=js,react" />
-</p>
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JS" style="margin: 0 12px; vertical-align: middle; animation: float 3.2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" style="margin: 0 12px; vertical-align: middle; animation: float 3.4s ease-in-out infinite;" />
+
+  <br />
+
   <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=html,tailwind,css" />
-</p>
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" style="margin: 0 10px; vertical-align: middle; animation: float 3.1s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" style="margin: 0 10px; vertical-align: middle; animation: float 3.3s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" style="margin: 0 10px; vertical-align: middle; animation: float 3.5s ease-in-out infinite;" />
+
+  <br />
+
   <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode" />
-</p>
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" style="margin: 0 10px; vertical-align: middle; animation: float 3.2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" style="margin: 0 10px; vertical-align: middle; animation: float 3.4s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VSCode" style="margin: 0 10px; vertical-align: middle; animation: float 3.6s ease-in-out infinite;" />
+
+  <br />
+
   <!-- Row 5 -->
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" style="margin: 0 14px; vertical-align: middle; animation: float 3.1s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" style="margin: 0 14px; vertical-align: middle; animation: float 3.3s ease-in-out infinite;" />
+
+  <br />
+
   <!-- Row 6 -->
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Vercel" style="margin: 0 14px; vertical-align: middle; animation: float 3.5s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="Netlify" style="margin: 0 14px; vertical-align: middle; animation: float 3.7s ease-in-out infinite;" />
+
 </p>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+</style>
 
 
 
