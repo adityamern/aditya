@@ -22,9 +22,32 @@
 ---
 
 ### 🧠 Tech Stack
+<!-- Apple Watch Style Tech Stack Layout -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma,vscode,git,github,vercel,netlify&perline=4" alt="Tech Stack" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=ts" />
 </p>
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=js,react" />
+</p>
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=html,tailwind,css" />
+</p>
+<p align="center">
+  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode" />
+</p>
+<p align="center">
+  <!-- Row 5 -->
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+<p align="center">
+  <!-- Row 6 -->
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
 
 
 
