@@ -1,13 +1,9 @@
 <!-- README.md START -->
 
 <!-- Banner Image -->
-<!-- Banner Image -->
 <p align="center">
-  <img src="[[https://via.placeholder.com/1200x300?text=Banner+Coming+Soon](https://raw.githubusercontent.com/adityamern/adityamern/main/assets/banner.png
-)](https://raw.githubusercontent.com/adityamern/adityamern/main/assets/banner.png
-)" alt="Aditya Mishra Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/adityamern/adityamern/main/assets/banner.png" alt="Aditya Mishra Banner" width="100%" />
 </p>
-
 
 <h3 align="center">✨ Frontend Developer · JavaScript Specialist · React-Focused</h3>
 
