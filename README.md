@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner" />
+  <img src="banner.png" width="100%" />
 </p>
 
 ---
@@ -24,7 +24,17 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vscode,git,github,netlify,vercel,leetcode,figma,canva,openai&perline=4" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vscode,git,github,netlify,vercel,leetcode&perline=4" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" alt="Figma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" alt="Canva" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="ChatGPT" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/perplexity/8A63D2" width="40" alt="Perplexity" />
 </p>
 
 ---
