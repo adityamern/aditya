@@ -3,7 +3,8 @@
 <!-- Banner Image -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Banner+Coming+Soon" alt="Aditya Mishra Banner" width="100%" />
+  <img src="[https://via.placeholder.com/1200x300?text=Banner+Coming+Soon](https://raw.githubusercontent.com/adityamern/adityamern/main/assets/banner.png
+)" alt="Aditya Mishra Banner" width="100%" />
 </p>
 
 
