@@ -61,9 +61,9 @@
   <img src="https://skillicons.dev/icons?i=webpack" width="45" />
 </p>
 
-
+<p align="centre">
 ### 🌐 Connect With Me
-
+<p/>
 <p align="center">
   <a href="https://www.linkedin.com/in/adityamern/" target="_blank">
     <img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
@@ -74,7 +74,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/adityamern" target="_blank">
-    <img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="Twitter" />
+    <img height="32" src="[https://cdn-icons-png.flaticon.com/512/5968/5968830.png](https://cdn-icons-png.flaticon.com/512/5969/5969020.png)" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/919310704884" target="_blank">
