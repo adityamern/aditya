@@ -25,7 +25,7 @@
 
 ### 🚀 My Frontend Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="45" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="45" />
@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=react" width="45" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" width="45" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="45" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="45" />
