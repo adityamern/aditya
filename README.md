@@ -64,20 +64,22 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 
+<h3 align="center">🌐 Connect With Me</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/adityamern/" target="_blank">
-    <img height="32" style="margin: 0 12px;" src="https://github.com/marwin1991/profile-technology-icons/assets/42115530/96f9b456-30f6-4a44-bf46-0b1a30e645f4" alt="LinkedIn" />
+    <img height="32" style="margin: 0 12px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/1387066067670798348" target="_blank">
-    <img height="32" style="margin: 0 12px;" src="https://github.com/marwin1991/profile-technology-icons/assets/42115530/4a8f2036-68fe-4526-a346-2b5b2c07eb1e" alt="Discord" />
+    <img height="32" style="margin: 0 12px;" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" />
   </a>
   <a href="https://twitter.com/adityamern" target="_blank">
-    <img height="32" style="margin: 0 12px;" src="https://github.com/marwin1991/profile-technology-icons/assets/42115530/92a458b0-2c5b-4a78-b80d-81396b5f7a8d" alt="Twitter" />
+    <img height="32" style="margin: 0 12px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="Twitter" />
   </a>
   <a href="https://wa.me/919310704884" target="_blank">
     <img height="32" style="margin: 0 12px;" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" />
   </a>
   <a href="mailto:adityamernstack@gmail.com" target="_blank">
-    <img height="32" style="margin: 0 12px;" src="https://github.com/marwin1991/profile-technology-icons/assets/42115530/1cc3a9b1-6171-41b2-9563-4c9e1e2b5d4c" alt="Gmail" />
+    <img height="32" style="margin: 0 12px;" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" />
   </a>
 </p>
