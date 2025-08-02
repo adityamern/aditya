@@ -63,10 +63,10 @@
 
 <br />
 
-<h3 align="center">🌐 Connect With Me</h3>
+<h3 align="left">🌐 Connect With Me</h3>
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/adityamern/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" />
   </a>
