@@ -66,16 +66,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityamern/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://discord.com/users/1387066067670798348" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://twitter.com/adityamern" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/919310704884" target="_blank">
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:adityamernstack@gmail.com" target="_blank">
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" />
   </a>
 </p>
-
-<!-- README.md END -->
