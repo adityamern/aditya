@@ -80,7 +80,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/919310704884" target="_blank">
-    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a1db0a25-6b3b-470c-8c50-a57ae9cba3fa" />
+    <img src="https://github.com/user-attachments/assets/a1db0a25-6b3b-470c-8c50-a57ae9cba3fa" />
 " alt="WhatsApp" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
