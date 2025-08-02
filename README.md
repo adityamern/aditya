@@ -76,7 +76,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/adityamern" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="40" />
+  <img src="https://github.com/user-attachments/assets/585a78af-85fb-4242-a917-b9afec30303a" alt="Twitter" style="height:34px; vertical-align:middle;" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/919310704884" target="_blank">
