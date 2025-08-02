@@ -68,25 +68,27 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adityamern/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" />
+  <img src="https://github.com/user-attachments/assets/74e48062-5a6f-418d-9674-91f54bb028dc"  alt="Linkedin" style="height:38px; vertical-align:middle;" />
   </a>
+  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1387066067670798348" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord"  style="height:38px; vertical-align:middle;" />
   </a>
+  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/adityamern" target="_blank">
-  <img src="https://github.com/user-attachments/assets/48abde78-9277-42ec-9cb8-073c4b398071" alt="Twitter" style="height:35px; vertical-align:middle;" />
+  <img src="https://github.com/user-attachments/assets/48abde78-9277-42ec-9cb8-073c4b398071" alt="Twitter" style="height:38px; vertical-align:middle;" />
 </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/919310704884" target="_blank">
-  <img src="https://github.com/user-attachments/assets/a1db0a25-6b3b-470c-8c50-a57ae9cba3fa" alt="WhatsApp" style="height:35px; vertical-align:middle;" />
+  <img src="https://github.com/user-attachments/assets/a1db0a25-6b3b-470c-8c50-a57ae9cba3fa" alt="WhatsApp" style="height:38px; vertical-align:middle;" />
+  
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" />
+ <img src="https://github.com/user-attachments/assets/f62a77ec-7488-4972-9783-931af16af742"  alt="image" style="height:38px; vertical-align:middle;" />
 </a>
-
-</p>
 
 </p>
