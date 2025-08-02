@@ -71,7 +71,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/be40317e-74d6-4c16-beeb-37fad33b3957" alt="Gmail" height="45" />
+    <img src="https://github.com/user-attachments/assets/be40317e-74d6-4c16-beeb-37fad33b3957" alt="Gmail" height="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   
