@@ -69,15 +69,15 @@
   <a href="https://www.linkedin.com/in/adityamern/" target="_blank">
     <img src="https://github.com/user-attachments/assets/74e48062-5a6f-418d-9674-91f54bb028dc" alt="LinkedIn" height="42" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://wa.me/919310704884" target="_blank">
+    <img src="https://github.com/user-attachments/assets/82471d9d-71ce-4d9e-a662-31928d9c4d0c" alt="Whatsapp" height="42" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com" target="_blank">
+   <a href="https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/f7124cdb-e9b6-46fe-b792-39daa2adde20" alt="Gmail" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  
-  <a href="https://wa.me/919310704884" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a1db0a25-6b3b-470c-8c50-a57ae9cba3fa" alt="WhatsApp" height="42" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://twitter.com/adityamern" target="_blank">
     <img src="https://github.com/user-attachments/assets/48abde78-9277-42ec-9cb8-073c4b398071" alt="Twitter" height="42" />
