@@ -66,22 +66,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityamern/" target="_blank">
-    <img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+    <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.png?raw=true" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1387066067670798348" target="_blank">
-    <img height="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" />
+    <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Discord_white.png?raw=true" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/adityamern" target="_blank">
-    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X (Twitter)" />
-</a>
+    <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Twitter_white.png?raw=true" alt="Twitter" />
+  </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/919310704884" target="_blank">
-    <img height="32" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" />
+    <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Whatsapp_white.png?raw=true" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:adityamernstack@gmail.com" target="_blank">
-    <img height="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" />
+    <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Gmail_white.png?raw=true" alt="Gmail" />
   </a>
 </p>
