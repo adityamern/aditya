@@ -66,22 +66,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityamern/" target="_blank">
-    <img height="32" src="./assets/icons/linkedin.svg" alt="LinkedIn" />
+    <img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1387066067670798348" target="_blank">
-    <img height="32" src="./assets/icons/discord.svg" alt="Discord" />
+    <img height="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/adityamern" target="_blank">
-    <img height="32" src="./assets/icons/x.svg" alt="Twitter" />
+    <img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/919310704884" target="_blank">
-    <img height="32" src="./assets/icons/whatsapp.svg" alt="WhatsApp" />
+    <img height="32" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:adityamernstack@gmail.com" target="_blank">
-    <img height="32" src="./assets/icons/gmail.svg" alt="Gmail" />
+    <img height="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" />
   </a>
 </p>
