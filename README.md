@@ -76,11 +76,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/adityamern" target="_blank">
-  <img src="https://github.com/user-attachments/assets/585a78af-85fb-4242-a917-b9afec30303a" alt="Twitter" style="height:34px; vertical-align:middle;" />
+  <img src="https://github.com/user-attachments/assets/48abde78-9277-42ec-9cb8-073c4b398071" alt="Twitter" style="height:35px; vertical-align:middle;" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/919310704884" target="_blank">
-  <img src="https://github.com/user-attachments/assets/a1db0a25-6b3b-470c-8c50-a57ae9cba3fa" alt="WhatsApp" style="height:34px; vertical-align:middle;" />
+  <img src="https://github.com/user-attachments/assets/a1db0a25-6b3b-470c-8c50-a57ae9cba3fa" alt="WhatsApp" style="height:35px; vertical-align:middle;" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com" target="_blank">
