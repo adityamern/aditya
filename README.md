@@ -66,22 +66,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityamern/" target="_blank">
-    <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.png?raw=true" alt="LinkedIn" />
+    <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/1387066067670798348" target="_blank">
-    <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Discord_white.png?raw=true" alt="Discord" />
+    <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/adityamern" target="_blank">
-    <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Twitter_white.png?raw=true" alt="Twitter" />
+    <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X (Twitter)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/919310704884" target="_blank">
-    <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Whatsapp_white.png?raw=true" alt="WhatsApp" />
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:adityamernstack@gmail.com" target="_blank">
-    <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Gmail_white.png?raw=true" alt="Gmail" />
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" />
   </a>
 </p>
+
