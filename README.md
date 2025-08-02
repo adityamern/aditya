@@ -81,7 +81,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:adityamernstack@gmail.com" target="_blank">
+  <a href="[mailto:adityamernstack@gmail.com](https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com)" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" />
   </a>
 </p>
