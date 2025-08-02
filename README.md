@@ -71,7 +71,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://wa.me/919310704884" target="_blank">
-    <img src="https://github.com/user-attachments/assets/82471d9d-71ce-4d9e-a662-31928d9c4d0c" alt="Whatsapp" height="42" />
+    <img src="https://github.com/user-attachments/assets/22fb56aa-1d80-4a04-a832-8fe86f40fa03" alt="Whatsapp" height="42" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
    <a href="https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com" target="_blank">
