@@ -56,9 +56,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="45" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jest" width="45" />
+  <img src="https://skillicons.dev/icons?i=next" width="45" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=webpack" width="45" />
+  <img src="https://skillicons.dev/icons?i=angular" width="45" />
 </p>
 
 <br />
