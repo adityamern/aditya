@@ -78,13 +78,4 @@
     <img src="https://github.com/user-attachments/assets/22fb56aa-1d80-4a04-a832-8fe86f40fa03" alt="Whatsapp" height="45" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-  <a href="https://twitter.com/adityamern" target="_blank">
-    <img src="https://github.com/user-attachments/assets/48abde78-9277-42ec-9cb8-073c4b398071" alt="Twitter" height="45" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-  <a href="https://discord.com/users/1387066067670798348" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="45" />
-  </a>
 </p>
