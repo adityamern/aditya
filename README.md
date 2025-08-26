@@ -14,7 +14,8 @@
 <h2 align="center">✨ Welcome to My GitHub ✨</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
+</p>
 </p>
 
 
