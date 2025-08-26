@@ -11,11 +11,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node.js;Building+Clean+%26+Responsive+UIs" alt="Typing SVG" />
 </p>
 
+<h2 align="center">✨ Welcome to My GitHub ✨</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
 </p>
 
-<h3 align="center">Coding is not just skill, it’s art ✨</h3>
+<p align="center">
+  Passionate about building modern, scalable, and user-focused web applications 🚀
+</p>
 
 
 
