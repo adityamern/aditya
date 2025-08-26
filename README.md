@@ -7,17 +7,12 @@
 
 <h3 align="center">✨ Frontend Developer · JavaScript Specialist · React-Focused</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node.js;Building+Clean+%26+Responsive+UIs" alt="Typing SVG" />
-</p>
+
 
 <h2 align="center">✨ Welcome to My GitHub ✨</h2>
 <!-- 5D Futuristic GitHub Header -->
 
-<p align="center">
-  <!-- Futuristic 3D Loop GIF -->
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFmaGFjMWdrdDUzNXd6bWdoYXRid2hjbzZyYmkyb2JlNWVnOHZmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=🚀+Crafting+Next-Gen+Frontends;⚡+Immersive+Web+Experiences;🌌+Coding+Beyond+Dimensions" />
