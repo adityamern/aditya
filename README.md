@@ -14,7 +14,7 @@
 <h2 align="center">✨ Welcome to My GitHub ✨</h2>
 
 <p align="center">
-  <img src="https://github.com/kyechan99/capsule-render/blob/master/src/images/base/header.png?raw=true" width="100%" />
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" />
 </p>
 
 
