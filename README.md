@@ -8,8 +8,9 @@
 <h3 align="center">✨ Frontend Developer · JavaScript Specialist · React-Focused</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node.js;Building+Clean+%26+Responsive+UIs" alt="Typing SVG" />
 </p>
+
 
 ---
 
