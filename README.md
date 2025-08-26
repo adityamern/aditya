@@ -14,12 +14,9 @@
 <h2 align="center">✨ Welcome to My GitHub ✨</h2>
 
 <p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
+  <img src="https://github.com/kyechan99/capsule-render/blob/master/src/images/base/header.png?raw=true" width="100%" />
 </p>
 
-<p align="center">
-  Passionate about building modern, scalable, and user-focused web applications 🚀
-</p>
 
 
 
